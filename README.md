@@ -1,5 +1,3 @@
-# CS302-Java-2020-Group33
-group 33, partII java, COMPSYS302, 2020 s1
 
 The JewelCart application is a jewelry-shopping application that displays jewelry from three 
   categories: Earrings, Rings and Necklaces.
