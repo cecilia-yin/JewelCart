@@ -1,5 +1,5 @@
 
-The JewelCart application is a jewelry-shopping application that displays jewelry from three 
+The JewelCart application is a jewelry-shopping android app that displays jewelry from three 
   categories: Earrings, Rings and Necklaces.
   
 Each category is a set of objects of class Products, and its fields are filled up by the 
